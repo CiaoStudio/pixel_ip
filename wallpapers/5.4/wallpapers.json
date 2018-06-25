@@ -2,6 +2,66 @@
 	"Wallpapers":
         [
       {
+         "author": "Ciao Studio",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_120.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_120_thumb.jpg",	 
+         "name": "Ciao World"
+      },
+      {
+         "author": "Android P",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_119.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_119_thumb.jpg",	 
+         "name": "Round Dance Spots"
+      },
+      {
+         "author": "Android P",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_118.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_118_thumb.jpg",	 
+         "name": "Random Spots"
+      },
+      {
+         "author": "Android P",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_117.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_117_thumb.jpg",	 
+         "name": "Spots Knight"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_116.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_116_thumb.jpg",	 
+         "name": "Relaxed Clownfish"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_115.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_115_thumb.jpg",	 
+         "name": "Underwater Shelter"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_114.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_114_thumb.jpg",	 
+         "name": "Underwater Summit"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_113.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_113_thumb.jpg",	 
+         "name": "Sea Mushroom"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_112.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_112_thumb.jpg",	 
+         "name": "Orange Rock"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_111.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_111_thumb.jpg",	 
+         "name": "Underwater Panorama"
+      },	  
+      {
          "author": "Android P",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_110.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_110_thumb.jpg",	 
@@ -344,7 +404,7 @@
          "name": "Old Wall"
       },	
       {
-         "author": "Android L",
+         "author": "Android K",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_53.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_53_thumb.jpg",	 
          "name": "Five Shades"
