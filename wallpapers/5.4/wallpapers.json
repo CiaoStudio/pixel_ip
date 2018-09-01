@@ -3,6 +3,66 @@
         [
       {
          "author": "Ciao Studio",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_130.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_130_thumb.jpg",	 
+         "name": "Colorful Triangles"
+      },
+      {
+         "author": "Ciao Studio",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_129.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_129_thumb.jpg",	 
+         "name": "Alone Far Away"
+      },
+      {
+         "author": "Ciao Studio",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_128.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_128_thumb.jpg",	 
+         "name": "North Mountains"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_127.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_127_thumb.jpg",	 
+         "name": "Submarine Path"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_126.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_126_thumb.jpg",	 
+         "name": "Fish Village"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_125.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_125_thumb.jpg",	 
+         "name": "Light Blue Sea"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_124.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_124_thumb.jpg",	 
+         "name": "Sea ​​Tubes"
+      },
+      {
+         "author": "Android O",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_123.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_123_thumb.jpg",	 
+         "name": "Solid Reef"
+      },
+      {
+         "author": "Android P",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_122.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_122_thumb.jpg",	 
+         "name": "Eggs Sketch "
+      },
+      {
+         "author": "Android P",
+         "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_121.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_121_thumb.jpg",	 
+         "name": "Fuchsia Beans"
+      },	  
+      {
+         "author": "Ciao Studio",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_120.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_120_thumb.jpg",	 
          "name": "Ciao World"
@@ -536,7 +596,7 @@
          "name": "Red Coast"
       },	
       {
-         "author": "Android Oreo",
+         "author": "Android O",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_31.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_31_thumb.jpg",	 
          "name": "Strip of Land"
@@ -578,7 +638,7 @@
          "name": "Mumu Playa"
       },	 	  
       {
-         "author": "Android Oreo",
+         "author": "Android O",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_24.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_24_thumb.jpg",	 
          "name": "Space View"
@@ -602,13 +662,13 @@
          "name": "Peppy Glass"
       },	  
       {
-         "author": "Android Oreo",
+         "author": "Android O",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_20.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_20_thumb.jpg",	 
          "name": "Light Reflection"
       },		
       {
-         "author": "Android Oreo",
+         "author": "Android O",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_19.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_19_thumb.jpg",		 
          "name": "Pointed Islets"
@@ -693,7 +753,7 @@
 
       },		
       {
-         "author": "Android Oreo",
+         "author": "Android O",
          "url": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_5.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/CiaoStudio/pixel_ip/master/wallpapers/5.4/wall_5_thumb.jpg",		 
          "name": "Seas Clash"
