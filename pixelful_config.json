@@ -1,15 +1,16 @@
 {
-  "latestVersion": "7.0",
-  "latestVersionCode": 67,
+  "latestVersion": "7.0.1",
+  "latestVersionCode": 70,
   "disableRequest": {
-    "below": 66,
-    "on": "66"
+    "below": 69,
+    "on": "69"
   },
   "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.pixeliconpack",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
+    "Sorry for two update in two day but I have to do it to contrast piracy",
+    "Remember to open the app for the first time you update and then re-apply to the launcher",
+    "Do this expecially if you are using OnePlus Launcher",	
+    "I've improved the UI too, adding Material 2 cards style",
+    "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
   ]
 }
