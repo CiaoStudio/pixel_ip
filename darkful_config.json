@@ -1,0 +1,17 @@
+{
+  "latestVersion": "2.0",
+  "latestVersionCode": 10,
+  "disableRequest": {
+    "below": 9,
+    "on": "9"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.pixeliconpack",
+  "releaseNotes": [
+    "Sorry for two updates in two days but I have to do it to contrast piracy;",
+    "Remember to open the app for the first time you update and then re-apply the icon pack to the launcher;",
+    "Do this expecially if you are using OnePlus Launcher;",	
+    "I've improved the UI too, adding Material 2 cards style;",
+    "If you face problems with Lawnchair, they depends by the launcher caused by the switch from v1 to v2;",	
+    "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
+  ]
+}
