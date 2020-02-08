@@ -1,11 +1,16 @@
 {
-  "latestVersion": "7.0",
+  "latestVersion": "7.0.1",
   "latestVersionCode": 70,
   "disableRequest": {
-    "below": 70,
+    "below": 69,
+    "on": "69"
   },
-  "url": "https://github.com/zixpo/candybar",
+  "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.pixeliconpack",
   "releaseNotes": [
-    "This is the text which will be shown on Update"
+    "Sorry for two updates in two days but I have to do it to contrast piracy;",
+    "Remember to open the app for the first time you update and then re-apply the icon pack to the launcher;",
+    "Do this expecially if you are using OnePlus Launcher;",	
+    "I've improved the UI too, adding Material 2 cards style;",
+    "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
   ]
 }
