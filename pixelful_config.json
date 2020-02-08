@@ -2,22 +2,13 @@
   "latestVersion": "7.0",
   "latestVersionCode": 70,
   "disableRequest": {
-    "below": 70,
-    "on": "69"
+    "below": 10,
+    "on": "40 20 353"
   },
-  "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.pixeliconpack",
+  "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
-    "Improved support to Android 10;",
-    "Added more than 110 new icons;"
-    "Added 10 new wallpapers;"
-    "Added new launchers;"
-    "Added new icons variants;"
-    "eresrRebuilt rdtsretand improved a lot of fdgfdgdgicons;"		
-    "Updated translations;"
-    "Updated icons codes list;"
-    "Updated CandyBar base;"
-    "Improvements and bug fixes;"
-    "<b>Please, download Pixelful from Play Store for support me.</b>"
-    "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
+    "This is the text which will be shown on Update",
+    "Another Release Note"
+    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
   ]
 }
