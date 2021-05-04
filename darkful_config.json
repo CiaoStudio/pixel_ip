@@ -1,21 +1,24 @@
 {
-  "latestVersion": "2.3",
-  "latestVersionCode": 13,
+  "latestVersion": "3.0.1",
+  "latestVersionCode": 16,
   "disableRequest": {
-    "below": 12,
-    "on": "12"
+    "below": 15,
+    "on": "15"
   },
   "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.darkfulip",
   "releaseNotes": [
-    "<b>IF AFTER THE UPDATE APP CRASHES, DELETE AND REINSTALL IT</b>",
-    "Added more than 130 new icons;",
-    "Added 10 new wallpapers;",
+    "<b>IF AFTER THE UPDATE APP CRASHES, DELETE AND REINSTALL IT</b>",    
+    "A new Darkful icon inspired by the past;",
+    "Added more than 70 new icons;",
+    "Added 20 new wallpapers;",
     "Added new icons variants;",	
+    "Added automatic app theme;",
+    "Fixed folders and drawer sections;",    
     "Updated translations;",
     "Updated icons codes list;",
     "Updated CandyBar base",	    
     "Updated icons codes list;",	    
-    "Improvements and bug fixes.",	    
-    "<b>Thanks for choose Darkful,</b> <i>have a nice day.</i>"
+    "Improvements and bug fixes.",
+    "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
   ]
 }
