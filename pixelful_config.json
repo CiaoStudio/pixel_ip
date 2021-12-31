@@ -1,22 +1,28 @@
 {
-  "latestVersion": "8.0",
-  "latestVersionCode": 74,
+  "latestVersion": "9.0",
+  "latestVersionCode": 75,
   "disableRequest": {
-    "below": 73,
-    "on": "73"
+    "below": 74,
+    "on": "74"
   },
   "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.pixeliconpack",
   "releaseNotes": [
-    "A new Pixelful icon inspired by the past;",
-    "Added more than 50 new icons;",
-    "Added 10 new wallpapers;",
-    "Added new icons variants;",	
-    "Added automatic app theme;",
-    "Updated translations;",
-    "Updated icons codes list;",
-    "Updated CandyBar base",	    
-    "Updated icons codes list;",	    
-    "Improvements and bug fixes.",
+        "Added more than 115 new icons;",
+        "Added 10 new wallpapers;",
+        "Added wallpapers search;",		
+        "Added new icons variants;",
+        "Added support for bookmarking icons;",
+        "Added Norwegian language;",
+        "Added Hungarian language;",
+        "Added Ukrainian language;",
+        "Analog clock is now resizable;",
+        "Added Hyperion launcher;",
+        "Added Lawnchair 12</item>			
+        "Rebuilt and improved a lot of icons;",
+        "Updated translations;",	
+        "Updated icons codes list;",
+        "Updated CandyBar base;",	
+        "Improvements and bug fixes.",
     "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
   ]
 }
