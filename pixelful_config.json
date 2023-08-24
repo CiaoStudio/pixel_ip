@@ -1,21 +1,20 @@
 {
-  "latestVersion": "9.1",
-  "latestVersionCode": 77,
+  "latestVersion": "9.2",
+  "latestVersionCode": 78,
   "disableRequest": {
-    "below": 76,
-    "on": "76"
+    "below": 77,
+    "on": "77"
   },
   "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.pixeliconpack",
   "releaseNotes": [
-        "Added 150 new icons;",
+        "Added 130 new icons;",
         "Added 10 new wallpapers;",	
         "Added new icons variants;",
-        "Added new languages;",
-        "Added Omega launcher;",
+        "Added support to new launchers;",
         "Rebuilt and improved a lot of icons;",
         "Updated translations;",
         "Updated icons codes list;",
-        "Updated CandyBar base;",	
+        "Updated to latest CandyBar base;",	
         "Improvements and bug fixes.",
     "<b>Thanks for choose Pixelful,</b> <i>have a nice day.</i>"
   ]
