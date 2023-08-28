@@ -1,21 +1,20 @@
 {
-  "latestVersion": "5.0",
-  "latestVersionCode": 18,
+  "latestVersion": "5.1",
+  "latestVersionCode": 19,
   "disableRequest": {
-    "below": 17,
-    "on": "17"
+    "below": 18,
+    "on": "18"
   },
   "url": "https://play.google.com/store/apps/details?id=com.ciaostudio.darkfulip",
   "releaseNotes": [
-        "Added more than 150 new icons;",
+        "Added 130 new icons;",
         "Added 10 new wallpapers;",	
         "Added new icons variants;",
-        "Added new languages;",
-        "Added Omega launcher;",
+        "Added support to new launchers;",
         "Rebuilt and improved a lot of icons;",
         "Updated translations;",
         "Updated icons codes list;",
-        "Updated CandyBar base;",	
+        "Updated to latest CandyBar base;",	
         "Improvements and bug fixes.",
     "<b>Thanks for choose Darkful,</b> <i>have a nice day.</i>"
   ]
